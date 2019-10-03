@@ -1,6 +1,5 @@
-# Python Guida a Python dalle basi - completamente in Italiano
-
-###Che cos'è Python
+# Guida a Python dalle basi - completamente in Italiano
+### Che cos'è Python
 Python creato e rilasciato nel 1991 dall'Olandese Guido van Rossum.
 il nome deriva dalla commedia Monty Python's Flying Circus dei celebri Monty Python.
 Oggi lo sviluppo di Python viene gestito dall'organizzazione no-profit Python Software Foundation grazie anche alla community internazionale di sviluppatori.
