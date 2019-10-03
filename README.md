@@ -1,5 +1,4 @@
-# Python
-#Guida a Python dalle basi - completamente in Italiano
+# Python Guida a Python dalle basi - completamente in Italiano
 
 ###Che cos'è Python
 Python creato e rilasciato nel 1991 dall'Olandese Guido van Rossum.
