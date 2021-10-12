@@ -9,3 +9,13 @@ python -m venv venv/
 ### FREEZE
 pip freeze > requirements.txt
 pip install -r requirements.txt
+
+
+### GIT CLONE
+git clone <url>
+
+### GIT ADD
+git add .
+
+### GIT COMMIT 
+git commit -m '<message>'
