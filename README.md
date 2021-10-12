@@ -12,10 +12,14 @@ pip install -r requirements.txt
 
 
 ### GIT CLONE
-git clone <url>
+git clone url
 
 ### GIT ADD
 git add .
 
 ### GIT COMMIT 
-git commit -m '<message>'
+git commit -m 'message'
+
+
+### GIT PUSH
+git push

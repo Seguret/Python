@@ -1,0 +1,16 @@
+1634035395871	geckodriver	INFO	Listening on 127.0.0.1:49963
+1634035398939	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mirko\\AppData\\Local\\Temp\\rust_mozprofileuS8Qcv"
+1634035399474	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mirko\\AppData\\Local\\Temp\\rust_mozprofileuS8Qcv\\search.json.mozlz4", (void 0)))
+1634035400442	Marionette	INFO	Listening on port 49971
+1634035400494	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634035400639	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1634035405476	Marionette	INFO	Stopped listening on port 49971
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

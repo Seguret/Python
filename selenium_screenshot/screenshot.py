@@ -1,10 +1,10 @@
 from selenium import webdriver
 
-driver = webdriver.Firefox()
+driver = webdriver.Firefox(executable_path='E:\Python\selenium_screenshot\geckodriver.exe')
 
 def get_url():
     print('# ESEGUO GET_URL')
-    url = 'file:///C:/Users/Mirko/OneDrive/Desktop/Project/murota/unimercatorum.html'
+    url = ''
     driver.get(url)
 
 def tele_screen(): # SCREENSHOT CAPTCHA 
